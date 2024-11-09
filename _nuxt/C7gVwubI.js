@@ -1,0 +1,1 @@
+import{T as o,G as t}from"./DTSYI1Lc.js";const i=o((n,r)=>{{const e=localStorage.getItem("token");return e?n.fullPath==="/token"?e==="adminToken"?void 0:t("/denied"):void 0:t("/login")}});export{i as default};

@@ -4186,65 +4186,65 @@ const assets$1 = {
   "/_nuxt/app.CNVgg_eC.jpg": {
     "type": "image/jpeg",
     "etag": "\"1d736-OGLkAG/Ef0o5jZJirkGkh60bBRU\"",
-    "mtime": "2024-11-09T10:33:58.271Z",
+    "mtime": "2024-11-09T10:39:56.317Z",
     "size": 120630,
     "path": "../public/_nuxt/app.CNVgg_eC.jpg"
   },
   "/_nuxt/B4O0MlXK.js": {
     "type": "text/javascript; charset=utf-8",
     "etag": "\"6b85-GB4p83Or/x/lhzq5Sqi1fxH4R6o\"",
-    "mtime": "2024-11-09T10:33:58.270Z",
+    "mtime": "2024-11-09T10:39:56.317Z",
     "size": 27525,
     "path": "../public/_nuxt/B4O0MlXK.js"
   },
   "/_nuxt/BbRkUZcB.js": {
     "type": "text/javascript; charset=utf-8",
     "etag": "\"2344-S46hOUN6QwVExj7HuljLvS9aVOw\"",
-    "mtime": "2024-11-09T10:33:58.271Z",
+    "mtime": "2024-11-09T10:39:56.317Z",
     "size": 9028,
     "path": "../public/_nuxt/BbRkUZcB.js"
   },
   "/_nuxt/Cn6juPNY.js": {
     "type": "text/javascript; charset=utf-8",
     "etag": "\"fa-FSpXqlwvxfkcbSurOPKCEl5WHz4\"",
-    "mtime": "2024-11-09T10:33:58.271Z",
+    "mtime": "2024-11-09T10:39:56.317Z",
     "size": 250,
     "path": "../public/_nuxt/Cn6juPNY.js"
   },
   "/_nuxt/CNrwSWa_.js": {
     "type": "text/javascript; charset=utf-8",
     "etag": "\"275c7-gfSnNxYAt4T9GoT4OcRLn9eeJyQ\"",
-    "mtime": "2024-11-09T10:33:58.271Z",
+    "mtime": "2024-11-09T10:39:56.317Z",
     "size": 161223,
     "path": "../public/_nuxt/CNrwSWa_.js"
   },
   "/_nuxt/DlTSF84A.js": {
     "type": "text/javascript; charset=utf-8",
     "etag": "\"d2-oAnrLPUmBpKo5xJs7OAB+oZ82fk\"",
-    "mtime": "2024-11-09T10:33:58.270Z",
+    "mtime": "2024-11-09T10:39:56.317Z",
     "size": 210,
     "path": "../public/_nuxt/DlTSF84A.js"
   },
   "/_nuxt/DPIn1R9y.js": {
     "type": "text/javascript; charset=utf-8",
     "etag": "\"6db-3D7/5lfnk56z4i8725wYIl2qviA\"",
-    "mtime": "2024-11-09T10:33:58.271Z",
+    "mtime": "2024-11-09T10:39:56.317Z",
     "size": 1755,
     "path": "../public/_nuxt/DPIn1R9y.js"
   },
   "/_nuxt/builds/latest.json": {
     "type": "application/json",
-    "etag": "\"47-JzLV4eWXDcUx7IEVTvmrMm5qpao\"",
-    "mtime": "2024-11-09T10:33:59.176Z",
+    "etag": "\"47-qwop5G1Atcr7HEWXGjqmG/Jwb2Y\"",
+    "mtime": "2024-11-09T10:39:57.376Z",
     "size": 71,
     "path": "../public/_nuxt/builds/latest.json"
   },
-  "/_nuxt/builds/meta/145d9052-4810-4ab3-9dcb-5fb4c8dfff19.json": {
+  "/_nuxt/builds/meta/1f02f8af-8152-41db-a8ce-f928b823e60c.json": {
     "type": "application/json",
-    "etag": "\"8b-l+YLH509uSZBOub8zGIfWduZ5b8\"",
-    "mtime": "2024-11-09T10:33:59.176Z",
+    "etag": "\"8b-iQTwP39OtrYMi1y5rHI+tUlHIMg\"",
+    "mtime": "2024-11-09T10:39:57.376Z",
     "size": 139,
-    "path": "../public/_nuxt/builds/meta/145d9052-4810-4ab3-9dcb-5fb4c8dfff19.json"
+    "path": "../public/_nuxt/builds/meta/1f02f8af-8152-41db-a8ce-f928b823e60c.json"
   }
 };
 
@@ -4627,7 +4627,7 @@ function _expandFromEnv(value) {
 const _inlineRuntimeConfig = {
   "app": {
     "baseURL": "/",
-    "buildId": "145d9052-4810-4ab3-9dcb-5fb4c8dfff19",
+    "buildId": "1f02f8af-8152-41db-a8ce-f928b823e60c",
     "buildAssetsDir": "/_nuxt/",
     "cdnURL": ""
   },
